@@ -6,7 +6,7 @@ Jan - Feb 2016
 
 <img src="http://s32.postimg.org/44umztec3/image.jpg" alt="Main Section" width="800" height="400"/>
 
->strong>Adding a Subject</strong>
+<strong>Adding a Subject</strong>
 
 <img src="http://s31.postimg.org/6gb4alxq1/image.jpg" alt="Adding a Subject" width="800" height="450"/>
 
